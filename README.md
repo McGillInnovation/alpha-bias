@@ -38,10 +38,17 @@ Articles Refs (In-progress):
 __Note__: Should you find any more relative links or articles on this subject, feel free to submit a PR and add for additional reading.
 
 https://web.stanford.edu/~jurafsky/pubs/neutrality.pdf
+
 https://www.studentnewsdaily.com/example-of-media-bias/misleading-headline/
+
 http://us.mediatenor.com/en/chart-of-the-week/politics/1095/fox-consistently-supportive-of-republican-politicians
+
 https://www.studentnewsdaily.com/example-of-media-bias/harvard-study-reveals-media-bias/
+
 http://eprints.whiterose.ac.uk/115200/
+
 http://web.stanford.edu/class/cs224n/reports/2741414.pdf
+
 http://dl.acm.org/citation.cfm?id=3003433
+
 https://arxiv.org
